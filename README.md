@@ -4,7 +4,7 @@
 
 本文是为了帮助新加入团队，进行WebPC前端开发的小伙伴快速上手的帮助指南。
 
-新手请先阅读[快速上手](/web-fis3-itheima-doc/content/1.开发手册/1.1-快速上手.html)
+新手请先阅读[快速上手](https://itheima2017.gitbooks.io/web-fis3-itheima-doc/content/1.%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C/1.1-%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B.html)
 
 ## 本框架目标
 
